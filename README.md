@@ -29,7 +29,7 @@ I am a Backend Developer from Armenia 🇦🇲
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-95-grigoryan/)
 
-![DavGrigoryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavGrigoryan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![DavGrigoryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavGrigoryan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 --- 
 ### :computer: Languages, Frameworks, and Libraries:

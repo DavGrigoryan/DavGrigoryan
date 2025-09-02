@@ -55,7 +55,7 @@
 
 ## 📫 Contact Me
 
-- **Email:** davit.grigoryan.up@gmail.com
+- **Email:** dawud.grigoryan@gmail.com
 
 🚀 **Let’s collaborate and build high-performance applications together!** 🚀
 

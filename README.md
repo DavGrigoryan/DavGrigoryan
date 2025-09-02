@@ -28,7 +28,7 @@
 ## 💼 Notable Projects
 ### **eLeap LMS**
 **Tech Stack:** PHP, Laravel, Docker, JavaScript, React.js, PWA, SCSS, AntD  
-**Role:** Back-end Developer & Automation Engineer  
+**Role:** Automation Engineer & Back-end Developer  
 ✔ Developed back-end functionalities and implemented **automation testing**.
 
 ### **AmsterdamGold**
@@ -43,7 +43,7 @@
 
 ### **Worky**
 **Tech Stack:** PHP, Laravel, React.js  
-**Role:** Back-end Developer  
+**Role:** Automation Engineer & Back-end Developer  
 ✔ Developed APIs and optimized business workflows for **efficient work management**.
 
 ### **Subject Selection Online (SSO)**

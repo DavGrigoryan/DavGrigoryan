@@ -16,7 +16,7 @@
 ---
 
 ## 💡 What I Do
-✅ Full Stack Web Development  
+✅ **Backend** Web Development  
 ✅ **Automation Testing (UI & API)** with Selenium & PyTest  
 ✅ Performance Testing with JMeter  
 ✅ **API Testing** with Postman  
